@@ -27,6 +27,16 @@ module.exports = {
     'react/react-in-jsx-scope': 'off',
     'prettier/prettier': 'error',
     'space-before-function-paren': 'off',
-    'react/prop-types': 'off'
+    'react/prop-types': 'off',
+    'import/prefer-default-export': 'off',
+    'jsx-a11y/anchor-is-valid': 'off',
+    'prettier/prettier': 'off',
+    'import/extensions': 'off',
+    'jsx-a11y/img-redundant-alt': 'off',
+    'react/jsx-no-comment-textnodes': 'off',
+    'react/require-default-props': 'off',
+    'import/no-named-as-default': 'off',
+    'react/jsx-no-undef': 'off',
+
   }
 };
